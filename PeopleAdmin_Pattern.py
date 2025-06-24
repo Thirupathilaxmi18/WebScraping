@@ -1,4 +1,4 @@
-__author__ = 'Gokul R'
+__author__ = 'Thirupathilaxmi Sangepu'
 
 PROJECT_DIR_NAME = 'jobsgenericwebcrawlerapp'
 import sys, os, traceback, re, json, time, html
